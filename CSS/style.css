@@ -376,8 +376,8 @@ header .navbar ul li a:hover{
 
   .html {width: 90%; background-color:var(--yellow);} /* Green */
   .css {width: 80%; background-color:var(--yellow);} /* Blue */
-  .php {width: 60%; background-color:var(--yellow);} /* Dark Grey */
-  .js {width: 65%; background-color: var(--yellow);} /* Red */
+  .php {width: 80%; background-color:var(--yellow);} /* Dark Grey */
+  .js {width: 60%; background-color: var(--yellow);} /* Red */
   
 
 
